@@ -1,0 +1,13 @@
+.env*
+*.pyc
+__pycache__/
+*.jsonl
+*.json
+*.log
+runs/
+checkpoints/
+models/
+datasets/
+*.safetensors
+*.bin
+idspace_dashboard_history.json
